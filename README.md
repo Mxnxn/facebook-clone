@@ -1,5 +1,5 @@
-# Legbook API
-Spring API for Legbook(Clone of facebook) Project 
+# Cloned API
+Spring API for (Clone of facebook) Project 
 
 # Intro #
 A Social media site where user can
@@ -12,9 +12,6 @@ A Social media site where user can
 - [x] Add Projection in API
 - [x] Chat module(Used websockets)
 - [x] Save previous chat to database
-- [ ] Friends module(User can send friend request and accept/block)
-
-
 
 # Technologies used #
 
